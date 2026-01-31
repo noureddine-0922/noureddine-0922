@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 أهلاً بك في ملفي الشخصي | Hi, I'm نورالدين
 
-<!--
-**noureddine-0922/noureddine-0922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 مبرمج تطبيقات ويب ومطور بوتات (Discord & Telegram)
 
-Here are some ideas to get you started:
+أنا مطور برمجيات شغوف ببناء حلول ذكية وأتمتة العمليات عبر الإنترنت. أركز على تقديم تجربة مستخدم سلسة وأكواد برمجية نظيفة وقابلة للتطوير.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ تقنياتي | Tech Stack
+
+* **برمجة المواقع (Web Development):** HTML5, CSS3, JavaScript (ES6+), [أضف هنا مثل React أو Vue].
+* **تطوير البوتات (Bot Development):** Discord.js / Discord.py, Telegraf (Telegram Bot API) / Telethon.
+* **خلفية النظام (Backend):** Node.js, Python.
+* **قواعد البيانات (Databases):** MongoDB, MySQL, PostgreSQL.
+* **أدوات أخرى:** Git & GitHub, Docker, VS Code.
+
+---
+
+### 🤖 خدماتي | What I Do
+
+* **Discord Bots:** بناء بوتات إدارية، أنظمة حماية، بوتات ألعاب، وأنظمة اقتصاد متكاملة.
+* **Telegram Bots:** بوتات تواصل، بوتات رد آلي، وأدوات أتمتة للقنوات والمجموعات.
+* **Websites:** تصميم وتطوير مواقع تعريفية (Landing Pages) وتطبيقات ويب متكاملة.
+
+---
+
+### 📊 إحصائيات GitHub | GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=noureddine-0922&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noureddine-0922&layout=compact&theme=radical)
+
+---
+
+### 📫 تواصل معي | Contact Me
+
+* **Telegram:** @Nxr43
+* **Discord:** iknow4317
+* **Email:** emploi.n21
+
+---
+
+> "الكود الجيد هو أفضل توثيق." 💻✨
